@@ -11,7 +11,7 @@ env/
 venv/
 ENV/
 .venv/
-LIM/
+
 piper/
 # VSCode and other IDE settings
 .vscode/
