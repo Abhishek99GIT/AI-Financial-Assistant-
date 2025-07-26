@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.32.0
+requests==2.32.3
+faster-whisper==1.0.3
+pydantic==2.9.2
+textblob==0.18.0.post0
+networkx==3.3
+langchain
+langchain-community
+numpy

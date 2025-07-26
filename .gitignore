@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+env/
+venv/
+ENV/
+.venv/
+LIM/
+piper/
+# VSCode and other IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dataset and large CSV/Excel files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Images, media, and output files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.pdf
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# Python virtualenv, compiled extensions
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Remove LFS artifacts (if any linger)
+.gitattributes

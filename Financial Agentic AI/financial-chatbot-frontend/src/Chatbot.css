@@ -1,0 +1,32 @@
+.chatbot-card {
+  max-width: 800px;
+  margin: auto;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-messages {
+  flex-grow: 1;
+  overflow-y: auto;
+  margin-bottom: 1rem;
+  max-height: 450px;
+}
+
+.user-message {
+  background-color: #e9f7ef;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.assistant-message {
+  background-color: #f1f0f0;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.form-control {
+  flex-grow: 1;
+}
